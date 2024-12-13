@@ -1,6 +1,8 @@
 # Prac2Time
  Stuff I found cool and wanted to try out in Unreal!
 
+Open the Unreal Project by using the Visual Studio EXE Please! Then going into Local Windows Debugger to start it up!
+
 
  Controls
  WASD - to move
